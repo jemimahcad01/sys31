@@ -1,0 +1,10 @@
+p{
+    background-color: navy;
+    text-align: center;
+    text-align: justify;
+}
+
+pre {
+    text-overflow: initial;
+    color: brown;
+}
